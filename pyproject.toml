@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "placename-lookup"
+version = "0.1.0"
+description = "A notebook for evaluating place name lookups"
+authors = ["Ed Summers <ehs@pobox.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.31.0"
+jupyterlab = "^4.1.0"
+pandas = "^2.2.0"
+pyarrow = "^15.0.0"
+geopy = "^2.4.1"
+pyld = "^2.0.3"
+idloc = "^0.1.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
