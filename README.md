@@ -8,4 +8,8 @@ To use it you should be able to:
 2. `pip install poetry`
 3. `poetry run jupyter notebook`
 
+Or you could try running it in Google Colab:
+
+* [https://colab.research.google.com/github/sul-dlss-labs/geo-2024-notebooks/blob/main/Notebook.ipynb](https://colab.research.google.com/github/sul-dlss-labs/geo-2024-notebooks/blob/main/Notebook.ipynb)
+
 [gis-robot-suite]: https://github.com/sul-dlss/gis-robot-suite
